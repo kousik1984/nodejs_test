@@ -1,4 +1,3 @@
-
 #!/bin/bash
 set -e  # Exit script on any error
 
